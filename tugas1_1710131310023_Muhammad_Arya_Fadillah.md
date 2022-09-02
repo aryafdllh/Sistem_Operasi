@@ -62,19 +62,12 @@ Komponen Processor :
 Fungsi processor secara umum adalah mengolah perintah yang masuk kemudian dikeluarkan berupa output yaitu pemberi perintah. Fungsi prosesor adalah:
 
 >>1. Memastikan komputer bekerja dengan baik
-
 >>2. Menjalankan proses informasi pada komputer
-
 >>3. Memberikan perintah kepada tiap komponen komputer
-
 >>4. Menjaga performa komputer
-
 >>5. Menunjang kegiatan spesifik komputer
-
 >>6. Mengolah perhitungan algoritma
-
 >>7. Menjaga stabilitas komponen komputer
-
 >>8.  Mendukung kebutuhan spesifik komputer
 ---
   - Software
