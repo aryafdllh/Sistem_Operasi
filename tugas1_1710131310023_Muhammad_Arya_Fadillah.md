@@ -54,9 +54,7 @@ Selain dua fungsi tersebut, sistem operasi komputer atau operating system juga b
 
 Komponen Processor : 
 >- Control Unit (CU) adalah Pengatur lalu lintas dan kegiatan data yang ada di dalam komputer seperti input dan output. Aktivitas bisa dieksekusi tanpa ada tumpang tindih dan dilakukan secara teratur.
-
 >- Artimatics Logical Unit (ALU) Komponen yang melakukan perhitungan aritmatika sesuai perintah yang diperoleh. Perhitungan digunakan supaya komputer dalam membaca instruksi dengan benar. Di dalam komponen ini, prosesor benar-benar melakukan pekerjaan yang penting pada sebuah sistem.
-
 >- Register Unit (RU) Komponen ini adalah alat penyimpanan yang lebih kecil daripada memory utama dan memiliki kecepatan akses cukup tinggi. Data yang telah diolah CU dan ALU akan disimpan di komponen ini untuk nantinya diolah kembali.
 
 Fungsi processor secara umum adalah mengolah perintah yang masuk kemudian dikeluarkan berupa output yaitu pemberi perintah. Fungsi prosesor adalah:
