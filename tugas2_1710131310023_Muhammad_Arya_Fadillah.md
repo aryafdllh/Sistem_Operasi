@@ -175,6 +175,23 @@ Tunggu beberapa saat sampai flashdisk berhasil terdeteksi dengan baik
 ![Screenshot (67)](https://user-images.githubusercontent.com/112482818/190943167-7e6fe8fc-33a5-46de-b8b4-08f1cf772834.png)
 
 
+---
+
+- **Accounting metode Monitoring melalui tak manager**
+
+1. Tekan ctrl+shift+esc bersamaan
+
+Maka akan tampil Task Manager
+
+![Screenshot (68)](https://user-images.githubusercontent.com/112482818/190948550-5ebc200a-2aef-408f-a0c2-ddfb546f343e.png)
+
+2. Setelah itu, pilih tab Perfomance
+
+Maka akan tampil data monitoring dari PC/Laptop yang kita gunakan
+
+![Screenshot (69)](https://user-images.githubusercontent.com/112482818/190948650-d9cb04c5-3d52-4781-aba0-31f492716731.png)
+
+
 
 
 
