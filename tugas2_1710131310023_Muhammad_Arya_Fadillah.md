@@ -35,35 +35,42 @@ Shell, baik di linux maupun di UNIX digunakan untuk interaksi antara user dengan
 Ada berbagai cara untuk membuat folder pada sistem operasi Linux, salah satunya dengan menggunakan terminal yang telah disediakan oleh OS tersebut, yakni dengan cara :
 
 1. Buka terminal dengan tekan ctrl+alt+t bersamaan
-2. Akan keluar tampilan terminal linux
+
+Akan keluar tampilan terminal linux
 
 ![Screenshot from 2022-09-18 13-09-50](https://user-images.githubusercontent.com/112482818/190918276-d12f1221-de04-4517-b13a-aa80db0213d3.png)
 
-3. Ketikkan ~$ ls -l , untuk menampilkan directory
+
+2. Ketikkan ~$ ls -l , untuk menampilkan directory
 
 ![Screenshot from 2022-09-18 13-10-22](https://user-images.githubusercontent.com/112482818/190918365-f3b5f9fb-e9e9-418a-b526-210986ca37e3.png)
 
-4. Selanjutnya, ketikkan ~$ cd Downloads
+
+3. Selanjutnya, ketikkan ~$ cd Downloads
 
 Untuk directory seperti ( Dekstop, Document, Downloads, dll. Kita dapat memilih sendiri dimana akan menyimpan folder yang ingin dibuat, disini saya menggunakan directory Downloads )
 
 ![Screenshot from 2022-09-18 13-11-42](https://user-images.githubusercontent.com/112482818/190918606-cd9d3859-5c3c-439f-9e72-cf879650ca45.png)
 
-5. Ketikkan ~$ mkdir ebook 
+
+4. Ketikkan ~$ mkdir ebook 
 
 ebook adalah nama folder yang saya buat, disini kita dapat membuat nama folder sendiri dengan mengetikkan nama folder setelah mkdir
 
 ![Screenshot from 2022-09-18 13-12-59](https://user-images.githubusercontent.com/112482818/190918858-17efdd14-7cfa-4be6-aacb-1c8f3ae01511.png)
 
-6. Setelah itu lakukan pengecekkan apakah folder telah berhasil dibuat dengan cara mengetikkan ~$ ls ebook
+
+5. Setelah itu lakukan pengecekkan apakah folder telah berhasil dibuat dengan cara mengetikkan ~$ ls ebook
 
 apabila berhasil, maka akan tampil seperti dibawah ini
 
 ![Screenshot from 2022-09-18 13-13-11](https://user-images.githubusercontent.com/112482818/190918965-276f4bab-7040-47c0-bef6-c2c4b646e14d.png)
 
-7. Folder telah berhasil dibuat
+
+6. Folder telah berhasil dibuat
 
 ![Screenshot from 2022-09-19 06-56-23](https://user-images.githubusercontent.com/112482818/190919051-7f8072da-f7a6-406f-9370-09be17b7ad5e.png)
+
 
 ---
 
@@ -71,19 +78,22 @@ apabila berhasil, maka akan tampil seperti dibawah ini
 
 1. Klik kanan pada dekstop linux, pilih Create New Document, pilih Empty Document, maka akan tampil seperti dibawah ini
 
+Silahkan isikan nama file sesuai keinginan sendiri
+
 ![Screenshot from 2022-09-19 06-51-36](https://user-images.githubusercontent.com/112482818/190919217-4621b0df-0e94-4c11-9dd3-2f38acb5229e.png)
 
-Silahkan isikan nama file sesuai keinginan sendiri
 
 2. Setelah itu, buka file text document tersebut
 
 ![Screenshot from 2022-09-19 06-52-29](https://user-images.githubusercontent.com/112482818/190919306-896eac67-5b1a-4578-8cd4-364e4482519c.png)
 
+
 3. Lalu, isikan file text document tersebut seusai keinginan
+
+Disana saya mengisi document tersebut dengan text FILETEXT "Hello World", simpan file dengan klik save.
 
 ![Screenshot from 2022-09-19 06-53-13](https://user-images.githubusercontent.com/112482818/190919354-1ab298b9-ddf7-4e80-9931-4f054a5fa0be.png)
 
-Disana saya mengisi document tersebut dengan text FILETEXT "Hello World", simpan file dengan klik save.
 
 ---
 
@@ -93,14 +103,21 @@ Disana saya mengisi document tersebut dengan text FILETEXT "Hello World", simpan
 
 ![Screenshot from 2022-09-19 07-00-18](https://user-images.githubusercontent.com/112482818/190919574-d2e18717-4737-4838-82de-133fb5b01cc4.png)
 
+
 2. Ketikkan ~$ ping www.google.com
 
 Untuk www.google.com dapat ganti dengan IP Adress/Website
 
 ![Screenshot from 2022-09-19 07-00-35](https://user-images.githubusercontent.com/112482818/190919744-284989aa-d0ea-4350-80e4-01cfd6d24b12.png)
 
+
 3. Maka akan tampil data PING dari tujuan kita
 
 ![Screenshot from 2022-09-19 07-01-07](https://user-images.githubusercontent.com/112482818/190919792-cd71666c-b2df-48c2-a947-df5d691dbd17.png)
+
+
+---
+
+
 
 
