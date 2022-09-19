@@ -118,6 +118,66 @@ Untuk www.google.com dapat ganti dengan IP Adress/Website
 
 ---
 
+# 2. LAYANAN SISTEM OPERASI
+---
+
+- **Membuat Program dengan Microsoft Visual Studio 2015**
+
+1. Buka aplikasi Microsoft Visual Studio, muncul tampilan seperti dibawah ini
+
+![Screenshot (58)](https://user-images.githubusercontent.com/112482818/190941335-49d3b043-0703-4ad6-9430-9451c85d09aa.png)
+
+![Screenshot (59)](https://user-images.githubusercontent.com/112482818/190941350-b1b32894-38bd-46aa-b9e2-2b1e4bceb547.png)
+
+
+2. Klik New Project, lalu pilih Windows Forns Application dengan type Visual Basic
+
+![Screenshot (60)](https://user-images.githubusercontent.com/112482818/190941458-dc75f7b4-8870-4a18-a779-9c0667c6e6f2.png)
+
+
+3. Setelah muncul tampilan seperti dibawah ini, langsung saja double klik pada Form1 yang ada pada tampilan layar
+
+![Screenshot (61)](https://user-images.githubusercontent.com/112482818/190941570-eda10ed8-f290-4cca-b65a-cbe8b35c370f.png)
+
+
+4. Maka akan muncul halaman lain dari Form1 untuk pengisian Code Program,
+
+Ketikkan/isi code program dengan : MessageBox.Show("Hello World")
+
+![Screenshot (62)](https://user-images.githubusercontent.com/112482818/190941884-eb9008f9-e975-431e-9005-d5d090df1abc.png)
+
+
+5. Lakukan klik Start, Hasilnya program sederhana untuk menampilkan tulisan "Hello World" berhasil dibuat
+
+![Screenshot (63)](https://user-images.githubusercontent.com/112482818/190941938-cf1328b2-b857-41d2-a6e5-37d23f4ee4b0.png)
+
+
+---
+
+- **Operasi I/O dengan Flashdisk**
+
+1. Pada halaman File explorer, colokkan Flashdisk ke komputer anda melalui Usb
+
+![Screenshot (64)](https://user-images.githubusercontent.com/112482818/190942927-bdc9e716-f013-4c65-849f-b6c5a7fdb749.png)
+
+Tunggu beberapa saat sampai flashdisk berhasil terdeteksi dengan baik
+
+![Screenshot (65)](https://user-images.githubusercontent.com/112482818/190942941-544e8624-da04-44c4-8c12-7393602fdce0.png)
+
+
+2. Untuk melakukan Eject, maka kita dapat klik kanan pada drive Flashdisk yang telah berhasil masuk pada komputer, terus pilih eject
+
+![Screenshot (66)](https://user-images.githubusercontent.com/112482818/190943119-8903e527-0b30-4278-9d05-1c1f3319e762.png)
+
+
+3. Maka flashdisk berhasil keluar dari laptop kita
+
+![Screenshot (67)](https://user-images.githubusercontent.com/112482818/190943167-7e6fe8fc-33a5-46de-b8b4-08f1cf772834.png)
+
+
+
+
+
 
 
 
