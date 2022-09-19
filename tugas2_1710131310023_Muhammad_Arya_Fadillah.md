@@ -192,6 +192,16 @@ Maka akan tampil data monitoring dari PC/Laptop yang kita gunakan
 ![Screenshot (69)](https://user-images.githubusercontent.com/112482818/190948650-d9cb04c5-3d52-4781-aba0-31f492716731.png)
 
 
+---
+
+# System Call
+---
+
+System calls menyediakan antar muka antara proses (program yang sedang dijalankan) dan sistem operasi.Biasanya tersedia sebagai instruksi bahasa rakitan
+
+Beberapa sistem mengizinkan system calls dibuat langsung dari bahasa pemrograman tingkat tinggi. Beberapa bahasa pemrograman tingkat tinggi (contoh : C, C++) telah didefenisikan untuk menggantikan bahasa rakitan untuk sistem pemrograman.
+
+
 
 
 
