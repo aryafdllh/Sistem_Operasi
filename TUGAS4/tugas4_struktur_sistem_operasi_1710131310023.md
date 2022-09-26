@@ -70,4 +70,68 @@ Lebih berhubungan kepada programer.
 > - Program aplikasi
 Lebih berhubungan kepada pengguna aplikasi
 komputer.
-![](file:///d%3A/Data%20Kuliah/MyRepository/ABKC6304%20SISTEM%20OPERASI/TUGAS4/img/Screenshot%202022-09-26%20184453.png)
+---
+
+Gambar Lapisan Sistem Operasi
+![](img/Screenshot%202022-09-26%20184453.png)
+
+---
+3. Kernel Mikro
+
+> - Fungsi
+utama mikrokernel adalah
+mendukung fasilitas komunikasi antara program klien dan bermacam-macam layanan yang juga berjalan di user space.
+>
+> - Komunikasi yang dilakukan secara tidak langsung, didukung oleh sistem message passing, dengan bertukar pesan melalui mikrokernel.
+>
+> - Metode ini
+menyusun
+sistem
+operasi dengan
+mengeluarkan semua komponen yang
+kurang essensial dari kernel, dan
+mengimplementasikannya sebagai program
+sistem dan level pengguna. 
+>
+> - Hasilnya kernel yang lebih
+kecil
+>
+> - Salah satu
+keuntungan mikrokernel adalah ketika
+layanan
+baru
+akan
+ditambahkan
+k
+e user space,
+kernel tidak perlu
+dimodifikasi. Kalau
+pun harus,
+perubahan
+akan lebih
+sedikit. 
+>
+> - Hasil
+sistem
+operasinya lebih mudah
+untuk
+ditempatkan
+pada
+suatu desain
+perangkat keras
+k
+e
+desain lainnya.
+>
+> - Mikrokernel
+juga mendukung
+keamanan
+reliabilitas
+yang lebih, karena kebanyakan layanan
+berjalan
+sebagai
+pengguna
+proses. Jika layanan
+gagal,
+sistem lainnya
+tetap terjaga.
